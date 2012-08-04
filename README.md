@@ -21,4 +21,8 @@ Berbagai efek-efek keren
 * http://buildorpro.com/ dan https://www.easel.io/
 In browser, drag & drop web editor
 
+Responsive CSS Framework:
+* Twitter Bootstrap http://twitter.github.com/bootstrap
+* Foundation foundation.zurb.com
+
 Selamat mencoba. :)
